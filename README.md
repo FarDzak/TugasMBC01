@@ -1,2 +1,2 @@
 # TugasMBC01-Fariz
- Simple Program
+ Permainan Simple Gunting, Batu, Kertas menggunakan Python
